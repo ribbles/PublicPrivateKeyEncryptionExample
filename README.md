@@ -1,4 +1,4 @@
-# PublicPrivateKeyEncryptionExample
+# Public Private Key Encryption Example
 Simple working example of public private key encryption
 
 ## References
